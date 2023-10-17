@@ -1,3 +1,4 @@
+name: Node continous integration 
 on: push
 jobs:
     build-node:
