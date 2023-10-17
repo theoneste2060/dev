@@ -1,0 +1,6 @@
+on: push
+jobs:
+    runs-on: windows-latest
+    steps:
+        - run: node --version
+        - rub: npm --version
